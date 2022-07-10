@@ -561,7 +561,7 @@ body {
   }
 
   .content__zone .wrapper .content__list .content2 .content__banner .content-item .content-item__list h2 {
-    font-size: calc(54px + 0.4285714286vw);
+    font-size: calc(64px + 0.4285714286vw);
   }
   .content__zone .wrapper .content__list .content2 .content__banner .content-item .content-item__list img {
     max-width: 70%;
@@ -574,10 +574,10 @@ body {
     font-size: calc(25px + 0.4285714286vw);
   }
   .content__zone .wrapper .content__list .content2 .content__banner .content-item p {
-    font-size: calc(6px + 0.4285714286vw);
+    font-size: calc(8px + 0.4285714286vw);
   }
   .content__zone .wrapper .content__list .content1 h2 {
-    font-size: calc(24px + 0.4285714286vw);
+    font-size: calc(26px + 0.4285714286vw);
   }
   .content__zone .wrapper .content__list .content1 p {
     font-size: calc(9px + 0.4285714286vw);
