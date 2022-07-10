@@ -45,6 +45,12 @@ body {
 	background-color: #eaeaea;
 }
 
+.page {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
 .header {
 	background-color: #eaeaea;
 }
@@ -368,6 +374,7 @@ body {
 
 .footer {
 	background: url(rectangle-7.png);
+	margin-top: auto;
 	.wrapper {
 		font-family: "Roboto", sans-serif;
 		font-size: calc(12px + 6 * (100vw / 1400));
